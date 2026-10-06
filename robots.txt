@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ed100084.github.io/sigma/sitemap.xml
