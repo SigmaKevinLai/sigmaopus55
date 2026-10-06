@@ -1,6 +1,6 @@
 # SIGMA 新格集團 — corporate website
 
-[Live GitHub Pages](https://ed100084.github.io/sigma/)
+[Live GitHub Pages](https://SigmaKevinLai.github.io/sigma/)
 
 Multi-page corporate website for SIGMA Group (再生鋁合金、鋁液直供、鋅合金). Traditional Chinese content, language framework for 简体中文 / English / 日本語. Industrial style: graphite, mineral white, molten orange; isometric technical line art. Static HTML/CSS/JS, no framework, no runtime third-party requests.
 
